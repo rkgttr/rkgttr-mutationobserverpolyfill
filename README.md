@@ -22,7 +22,7 @@ $ yarn add rkgttr-mutationobserverpolyfill --dev
 ### Getting Started
 
 ```js
-import mutationObserverPolyfill from 'rkgttr-mutationobserverpolyfill';
+import 'rkgttr-mutationobserverpolyfill';
 ```
 
 or

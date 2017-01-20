@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "rkgttr-mutationobserverpolyfill",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Polyfill for MutationObserver.",
   "repository": "rkgttr/rkgttr-mutationobserverpolyfill",
   "author": "Erik Guittiere",
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.11.6",
-    "rkgttr-weakmappolyfill": "^0.0.1"
+    "rkgttr-weakmappolyfill": "^0.0.2"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
